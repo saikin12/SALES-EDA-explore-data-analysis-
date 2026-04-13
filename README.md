@@ -1,3 +1,4 @@
+
 # 📊 Sales Analytics Dashboard
 
 ## Comprehensive Sales Analysis with Machine Learning & Time Series Forecasting
@@ -431,3 +432,27 @@ For questions or suggestions, please open an issue or contact the project mainta
 ![Dashboard](images/dashboard.png)
 ![Dashboard](images/predict.png)
 ![Dashboard](images/timeseries.png)
+=======
+# 📊 Sales Performance Analysis for Business Decision Making
+## 👨‍💻 About This Project
+
+This project was developed as part of a data analysis portfolio to demonstrate skills in:
+- Data cleaning & preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Business insight generation
+
+  ## ▶️ How to Run
+
+1. Clone repository
+2. Install dependencies:
+   pip install pandas numpy matplotlib seaborn
+3. Run Jupyter Notebook:
+   jupyter notebook analysis.ipynb
+
+## 🧰 Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- Jupyter Notebook
