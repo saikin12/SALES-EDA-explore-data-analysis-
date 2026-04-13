@@ -427,12 +427,7 @@ For questions or suggestions, please open an issue or contact the project mainta
 
 ---
 
-**Made with ❤️ using Streamlit, Scikit-learn, and Plotly**
-
-🚀 Cara Menjalankan:
-
-     1 # Install dependencies
-     2 pip install -r requirements.txt
-     3
-     4 # Run dashboard
-     5 streamlit run app.py
+## 📊 Dashboard Preview
+![Dashboard](images/dashboard.png)
+![Dashboard](images/predict.png)
+![Dashboard](images/timeseries.png)
