@@ -1,7 +1,14 @@
 
 # 📊 Sales Analytics Dashboard
 
-## Comprehensive Sales Analysis with Machine Learning & Time Series Forecasting
+🚀 End-to-end data analytics project combining **EDA, Machine Learning, and Interactive Dashboard** to generate actionable business insights.
+
+🔗 Key Features:
+- 📈 Interactive dashboard (Streamlit)
+- 🤖 Machine learning prediction (Random Forest)
+- 📊 Time series analysis
+- 💡 Business insights & recommendations
+
 
 ![dashboard](images/dashboard.png)
 
@@ -289,12 +296,7 @@ The dashboard will automatically open at `http://localhost:8501`
 - **Geographic Analysis**: State and city rankings
 
 ---
-## 💡 Business Recommendations
 
-- Fokus meningkatkan penjualan pada kategori dengan profit tertinggi
-- Evaluasi produk dengan profit rendah untuk optimasi harga atau biaya
-- Manfaatkan pola penjualan untuk strategi promosi
-- Investigasi transaksi outlier untuk peluang atau risiko bisnis
 ## 💡 Business Recommendations
 
 - Fokus meningkatkan penjualan pada kategori dengan profit tertinggi
@@ -443,8 +445,7 @@ For questions or suggestions, please open an issue or contact the project mainta
 ![Dashboard](images/dashboard.png)
 ![Dashboard](images/predict.png)
 ![Dashboard](images/timeseries.png)
-=======
-# 📊 Sales Performance Analysis for Business Decision Making
+
 ## 👨‍💻 About This Project
 
 This project was developed as part of a data analysis portfolio to demonstrate skills in:
@@ -467,3 +468,10 @@ This project was developed as part of a data analysis portfolio to demonstrate s
 - NumPy
 - Matplotlib & Seaborn
 - Jupyter Notebook
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![ML](https://img.shields.io/badge/Machine%20Learning-RandomForest-green)
+
+## 🌐 Live Demo
+👉 https://your-app.streamlit.app
