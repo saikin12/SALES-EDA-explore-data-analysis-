@@ -289,7 +289,18 @@ The dashboard will automatically open at `http://localhost:8501`
 - **Geographic Analysis**: State and city rankings
 
 ---
+## 💡 Business Recommendations
 
+- Fokus meningkatkan penjualan pada kategori dengan profit tertinggi
+- Evaluasi produk dengan profit rendah untuk optimasi harga atau biaya
+- Manfaatkan pola penjualan untuk strategi promosi
+- Investigasi transaksi outlier untuk peluang atau risiko bisnis
+## 💡 Business Recommendations
+
+- Fokus meningkatkan penjualan pada kategori dengan profit tertinggi
+- Evaluasi produk dengan profit rendah untuk optimasi harga atau biaya
+- Manfaatkan pola penjualan untuk strategi promosi
+- Investigasi transaksi outlier untuk peluang atau risiko bisnis
 ## 📁 Project Structure
 
 ```
